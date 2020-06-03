@@ -1,14 +1,18 @@
-Followed steps for install (Puppet for beginers videos)
+#######Followed steps for install (Puppet for beginers videos)#########
 but worked afer used the below link
 
 https://www.itzgeek.com/how-tos/linux/centos-how-tos/how-to-install-puppet-4-x-on-centos-7-rhel-7.html
 
+######Installed Ubuntu20.04 with EFI partion##########
+https://linuxconfig.org/how-to-install-ubuntu-20-04-focal-fossa-desktop
+
 #B1s_Asi*20#
 #Th1nlp@d_win9x#
 #Th1nlp@d_github#
-Ansible
+#####Ansible######
 https://www.softwaretestinghelp.com/ansible-playbooks-ansible-vaults/
 
+####Security#########
 Tcpdump
 https://hackertarget.com/tcpdump-examples/
 

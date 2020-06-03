@@ -44,5 +44,4 @@ Vagrant.configure("2") do |config|
     pac.vm.network "private_network", ip: "192.168.33.22"
     pac.vm.hostname = "PuppetCentos6"
   end
- 
 end
